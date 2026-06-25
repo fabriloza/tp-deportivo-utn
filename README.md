@@ -5,7 +5,6 @@ Institución:UTN – Tecnicatura Universitaria en Programación (TUP)
 Año Lectivo: 2026  
 Escenario elegido: Escenario D – Estadísticas de Resultados Deportivos
 
----
 
 ## Integrante
 
