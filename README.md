@@ -10,7 +10,7 @@ Escenario elegido: Escenario D – Estadísticas de Resultados Deportivos
 ## Integrante
 
 | Rol 
-|-----
+
 | P1 –Líder y Organizador Fabrizio Loza 
 
 ---
