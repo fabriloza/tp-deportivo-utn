@@ -1,0 +1,34 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Checkpoints de notebooks de Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de entorno virtual
+venv/
+env/
+.env
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de datos pesados (no versionar datasets grandes)
+*.xlsx
+*.xls
+
+# Logs
+*.log
+
+# Archivos de credenciales – NUNCA subir tokens ni claves
+*.env
+secrets.txt
+token.txt
